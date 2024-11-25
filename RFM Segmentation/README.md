@@ -1,12 +1,9 @@
-# Snowflake
-SQL projects implemented in Snowflake, a modern cloud data platform. This repository showcases advanced SQL queries, data transformations, and analytics use cases, leveraging Snowflake's features like compute-storage decoupling, semi-structured data handling, and scalable virtual warehouses.
-
-## RFM Segmentation
+# RFM Segmentation
 This repository contains all resources and code files related to RFM Segmentation.
 
 [![RFM Segmentation](https://github.com/nafiul-araf/Snowflake/blob/main/RFM%20Segmentation/Dashboard.JPG)](https://app.powerbi.com/view?r=eyJrIjoiNzlhY2I2NDYtMmQ4Mi00NTFjLTkxOGItZGVhYjk0MWU1ZjcyIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
 
-### File Structure
+## File Structure
 
 ```plaintext
 RFM Segmentation/
@@ -17,7 +14,7 @@ RFM Segmentation/
 ├── rfm image.JPG                               # Additional visualization or image related to RFM segmentation.
 ```
 
-#### Key Outputs
+### Key Outputs
 
 - **Basic customer analytics and KPIs.**
 - **Insights into customer behavior** based on:
