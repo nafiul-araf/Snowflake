@@ -14,3 +14,16 @@ RFM Segmentation/
 ├── RFM Segmentation Analysis.pbix              # Power BI file showcasing the RFM segmentation analysis.
 ├── rfm image.JPG                               # Additional visualization or image related to RFM segmentation.
 ```
+
+## Cohort Analysis
+
+### File Structure
+
+```plaintext
+RFM Segmentation/
+├── Cohort Analysis.xlsx                        # Visualization of the outputs in Excel.
+├── Excel Image.JPG                             # Additional visualization or image related to Cohort Analysis.                               
+├── Online Retail Data.csv                      # CSV file containing the raw retail data used for analysis.
+├── Queries.sql                                 # SQL script used to perform Cohort Analysis in Snowflake.
+├── README.md                                   # Some Description of the Project.
+```
