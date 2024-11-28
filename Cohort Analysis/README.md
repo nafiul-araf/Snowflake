@@ -1,7 +1,7 @@
 # RFM Segmentation
 This repository contains all resources and code files related to Cohort Analysis.
 
-[![Cohort Analysis](https://github.com/nafiul-araf/Snowflake/blob/main/RFM%20Segmentation/Dashboard.JPG)]
+![Cohort Analysis](https://github.com/nafiul-araf/Snowflake/blob/main/Cohort%20Analysis/Excel%20Image.JPG)
 ## Key Outputs
 
 - **Generated Cohorts for Online Retail Data.**
