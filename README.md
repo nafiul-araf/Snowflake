@@ -27,3 +27,24 @@ RFM Segmentation/
 ├── Queries.sql                                 # SQL script used to perform Cohort Analysis in Snowflake.
 ├── README.md                                   # Some Description of the Project.
 ```
+
+## Bike Share Analysis
+
+### File Structure
+
+```plaintext
+Bike Share Analysis/
+├── Data/
+    ├── Bike Share Data Analysis.csv            # Complete data after joining data with the dimension table on SQL
+    ├── bike_data.csv                           # Bike data for 2021 and 2022 after loading and merging on Python
+    ├── cost_table.csv                          # Dimention table for fiancial values according to each year           
+├── Power BI/
+    ├── Dashboard.pbix                          # Power BI file showcasing visual representation the bike share analysis                                   
+├── Python/
+    ├── Analysis and Hypothesis Testing.ipynb   # Performs some statistical test and visualization
+    ├── Data Creation.ipynb                     # Gather data from github and do clean and ready for analysis on SQL
+├── SQL/
+    ├── Data Analysis.sql                       # Core analysis file          
+├── README.md                                   # Some Description of the Project
+├── dashboard image                             # Screenshot of the Bike Share dashboard  
+```
