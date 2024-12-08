@@ -1,20 +1,14 @@
 # RFM Segmentation
-This repository contains all resources and code files related to RFM Segmentation.
+This repository contains all resources and code files related to Bike Share Analysis.
 
-[![RFM Segmentation](https://github.com/nafiul-araf/Snowflake/blob/main/RFM%20Segmentation/Dashboard.JPG)](https://app.powerbi.com/view?r=eyJrIjoiNzlhY2I2NDYtMmQ4Mi00NTFjLTkxOGItZGVhYjk0MWU1ZjcyIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
+[![Bike Share Analysis](https://github.com/nafiul-araf/Snowflake/blob/main/Bike%20Share%20Analysis/dashboard%20image.JPG)](https://app.powerbi.com/view?r=eyJrIjoiMmNhOTU2MmItYmNiMy00MWM2LTk1NDYtNWQ3YzczMzFhY2I2IiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
 
 ## Key Outputs
 
-- **Basic customer analytics and KPIs.**
-- **Insights into customer behavior** based on:
-  - Recency
-  - Frequency
-  - Monetary value
-- **Segmentation of customers into groups such as:**
-  - Loyal Customers
-  - Potential Churners
-  - New Customers
-  - Big Spenders
-  - Can’t Lose Them
-  - Others
+- **Analysis Insights**:
+  - **Hourly Revenue Analysis**: Peak revenue hours were observed between 8 AM–10 AM and 5 PM–7 PM, aligning with typical commuting times.
+  - **Profit and Revenue Trends**: Revenue and profit exhibited a seasonal pattern, peaking in summer and declining during winter.
+  - **Seasonal Trends**: Summer consistently generated the highest revenue, followed by spring and fall, with winter showing the lowest.
+  - **Rider Demographics**: Registered riders contributed significantly more to revenue and profit compared to casual riders, highlighting their importance to 
+                            business growth.
 
