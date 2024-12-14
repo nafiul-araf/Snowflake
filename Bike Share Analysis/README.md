@@ -1,4 +1,4 @@
-# RFM Segmentation
+# Bike Share Data Analysis
 This repository contains all resources and code files related to Bike Share Analysis.
 
 [![Bike Share Analysis](https://github.com/nafiul-araf/Snowflake/blob/main/Bike%20Share%20Analysis/dashboard%20image.JPG)](https://app.powerbi.com/view?r=eyJrIjoiMmNhOTU2MmItYmNiMy00MWM2LTk1NDYtNWQ3YzczMzFhY2I2IiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
